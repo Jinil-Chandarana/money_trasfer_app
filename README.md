@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # money_trasfer_app
 money transfer app (front-end)
 =======
