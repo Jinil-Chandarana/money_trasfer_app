@@ -1,21 +1,6 @@
 <<<<<<< HEAD
 # money_trasfer_app
-money transfer static app
+money transfer app (front-end)
 =======
-# money_transfer_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 1b311fb (money transfer app)
+<img width="181" alt="image" src="https://user-images.githubusercontent.com/94914338/224329250-edee17d0-69bb-401d-be06-4ec1526b19b0.png">
+<img width="185" alt="image" src="https://user-images.githubusercontent.com/94914338/224329472-418dc41f-42c9-482e-9fd2-3caa6742e92c.png">
